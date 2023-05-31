@@ -1,0 +1,7 @@
+/home/guvenkarabulut/Desktop/sp-microservice/microservices-new/product-service/src/main/java/com/guvenkarabulut/productservice/dto/ProductResponse.java
+/home/guvenkarabulut/Desktop/sp-microservice/microservices-new/product-service/src/main/java/com/guvenkarabulut/productservice/service/ProductService.java
+/home/guvenkarabulut/Desktop/sp-microservice/microservices-new/product-service/src/main/java/com/guvenkarabulut/productservice/model/Product.java
+/home/guvenkarabulut/Desktop/sp-microservice/microservices-new/product-service/src/main/java/com/guvenkarabulut/productservice/repository/ProductRepository.java
+/home/guvenkarabulut/Desktop/sp-microservice/microservices-new/product-service/src/main/java/com/guvenkarabulut/productservice/ProductServiceApplication.java
+/home/guvenkarabulut/Desktop/sp-microservice/microservices-new/product-service/src/main/java/com/guvenkarabulut/productservice/controller/ProductController.java
+/home/guvenkarabulut/Desktop/sp-microservice/microservices-new/product-service/src/main/java/com/guvenkarabulut/productservice/dto/ProductRequest.java

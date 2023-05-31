@@ -1,0 +1,10 @@
+com/guvenkarabulut/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/guvenkarabulut/productservice/controller/ProductController.class
+com/guvenkarabulut/productservice/service/ProductService.class
+com/guvenkarabulut/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/guvenkarabulut/productservice/dto/ProductRequest.class
+com/guvenkarabulut/productservice/model/Product$ProductBuilder.class
+com/guvenkarabulut/productservice/dto/ProductResponse.class
+com/guvenkarabulut/productservice/repository/ProductRepository.class
+com/guvenkarabulut/productservice/ProductServiceApplication.class
+com/guvenkarabulut/productservice/model/Product.class
