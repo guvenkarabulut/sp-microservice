@@ -18,6 +18,7 @@
         <module>inventory-service</module>
         <module>order-service</module>
         <module>discover-server</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>
